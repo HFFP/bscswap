@@ -22,9 +22,9 @@ const HDWalletProvider = require('@truffle/hdwallet-provider');
 // const infuraKey = "fj4jll3k.....";
 //
 // const fs = require('fs');
-const mnemonic = "cabbage trumpet modify truth space aim hip wheel neither slam clay chuckle";
+const mnemonic = "";
 const goerliProvider = "https://goerli.infura.io/v3/3248083ccd694c02809beab6472443f2"
-const privateKeys = ["24b4d63255eb6e6af0a90f6377266b08cfadec7c1759b205643f18c47d58c925"]
+const privateKeys = []
 module.exports = {
   /**
    * Networks define how you connect to your ethereum client and let you set the
